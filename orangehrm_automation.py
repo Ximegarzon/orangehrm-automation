@@ -6,7 +6,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> from selenium.webdriver.support import expected_conditions as EC
 >>>
 >>> # Configuración del navegador
->>> driver = webdriver.Chrome()  # Reemplaza con el navegador que desees utilizar
+>>> driver = webdriver.Chrome() 
 
 DevTools listening on ws://127.0.0.1:52429/devtools/browser/470f7042-4e29-4e5d-969a-fa63134fb85f
 >>>
